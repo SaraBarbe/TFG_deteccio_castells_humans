@@ -1,8 +1,8 @@
 # Models
 
-The trained model weights are not included in this repository due to file size limitations.
+Els pesos dels models entrenats no s'inclouen en aquest repositori a causa de les limitacions de mida dels fitxers.
 
-Models used in this project:
+Models utilitzats en aquest projecte:
 
 - OD_best_small.pt
 - C2_best.pt
